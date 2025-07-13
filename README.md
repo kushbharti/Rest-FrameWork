@@ -1,53 +1,3 @@
-<!-- <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Company & Employee Management API</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background-color: #f8f9fa;
-      color: #212529;
-      line-height: 1.6;
-    }
-    code, pre {
-      background: #e9ecef;
-      padding: 8px;
-      border-radius: 6px;
-      display: block;
-      overflow-x: auto;
-    }
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      margin: 20px 0;
-    }
-    table, th, td {
-      border: 1px solid #dee2e6;
-      padding: 10px;
-      text-align: left;
-    }
-    th {
-      background-color: #f1f3f5;
-    }
-    h1, h2, h3 {
-      color: #343a40;
-    }
-    a {
-      color: #007bff;
-      text-decoration: none;
-    }
-    hr {
-      margin: 40px 0;
-      border: none;
-      height: 1px;
-      background: #dee2e6;
-    }
-  </style>
-</head>
-<body>
 
   <h1>🏢 Company & Employee Management API</h1>
   <p>A RESTful API built using <strong>Django</strong> and <strong>Django REST Framework</strong> to manage companies and their employees.</p>
@@ -172,15 +122,13 @@ python manage.py runserver
   <h2>📄 License</h2>
   <p>This project is licensed under the <a href="#">MIT License</a>.</p>
 
-</body>
-</html> -->
 
 
 
 
 
 
-
+<!-- 
 
 
 
@@ -313,4 +261,4 @@ GET /api/v1/companies/{company_id}/employees/
 
   <h2>📄 License</h2>
   <p>This project is licensed under the <strong>MIT License</strong>. See the LICENSE file for details.</p>
-
+ -->
