@@ -56,7 +56,10 @@ python manage.py migrate
 python manage.py runserver
   </pre>
 
-  <h2>🔗 API Endpoints</h2>
+  <h2>🔗 API Endpoints</h2>  <br>
+
+  <img width="1897" height="1005" alt="Screenshot 2025-07-13 185202" src="https://github.com/user-attachments/assets/6260011c-ebc9-4254-8f0c-d206a43e99a8" />  <br><br>
+
 
   <h3>📁 Company</h3>
   <table border="1" cellpadding="8" cellspacing="0">
@@ -98,6 +101,9 @@ python manage.py runserver
   </ul>
 
   <h2>🔍 Custom Endpoint</h2>
+  
+<img width="1919" height="550" alt="Screenshot 2025-07-13 185228" src="https://github.com/user-attachments/assets/2e4c0626-c3eb-4294-aaf6-3e8006307e71" />  <br> <br>
+
   <pre>
 GET /api/v1/companies/{company_id}/employees/
   </pre>
